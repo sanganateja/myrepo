@@ -1,4 +1,4 @@
 FROM nginx
 MAINTAINER sangana 
- EXPOSE 7070
+EXPOSE 7070
 
